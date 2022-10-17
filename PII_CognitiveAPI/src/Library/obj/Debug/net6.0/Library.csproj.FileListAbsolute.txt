@@ -1,0 +1,60 @@
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.deps.json
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\refint\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\RideShare\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\ref\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.deps.json
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\refint\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\a\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\ref\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.deps.json
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\refint\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\ref\CognitiveLibrary.dll
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.deps.json
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\refint\CognitiveLibrary.dll
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\albin\OneDrive\Escritorio\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\ref\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.deps.json
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\bin\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\refint\CognitiveLibrary.dll
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\CognitiveLibrary.pdb
+C:\Users\ignac\OneDrive\Escritorio\Ejercicios C#\RideShare2.0\PII_CognitiveAPI\src\Library\obj\Debug\net6.0\ref\CognitiveLibrary.dll
