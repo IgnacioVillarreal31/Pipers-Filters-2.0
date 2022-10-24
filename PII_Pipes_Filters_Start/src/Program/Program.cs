@@ -32,6 +32,19 @@ namespace CompAndDel
             IPipe pipeSerial4 = new PipeSerial(filterGreyscale,pipeSerial3);
 
             pipeSerial4.Send(picture);
+
+
+            PictureProvider provider2 = new PictureProvider();
+            IPicture picture2 = provider.GetPicture(@"luke.jpg");
+
+            IFilter filtroGuardado6 = new FiltroGuardado (@"luke10.jpg");
+            IPipe pipeSerial6 = new PipeSerial(filtroGuardado6,pipeNull);
+
+            int [,] kernel = new int[4,4];
+            IFiltroConvolucion filtroconvolucion = new FilterConvolution(0,9,kernel);
+            IPipe pipeSerial7 = new PipeSerial(filtroconvolucion,pipeSerial6);
+
+            pipeSerial7.Send(picture);
         }
     }
 }

@@ -21,11 +21,13 @@ namespace CompAndDel.Filters
         public FilterConvolution(int complement, int divider, int[,] kernel)
         {
             this.kernel = kernel;
+            int xx = kernel.GetLength(0);
+            int yy = kernel.GetLength(1);
             this.complement = complement;
             this.divider = divider;
-            for (int x = 0; x < 3; x++)
+            for (int x = 0; x < xx; x++)
             {
-                for (int y = 0; y < 3; y++)
+                for (int y = 0; y < yy; y++)
                 {
                     kernel[x, y] = 1;
                 }
@@ -83,7 +85,9 @@ namespace CompAndDel.Filters
 
         private Color[,] CreateSample(IPicture image, int x, int y)
         {
-            Color[,] sample = new Color[3,3];
+            int xx = kernel.GetLength(0);
+            int yy = kernel.GetLength(1);
+            Color[,] sample = new Color[xx,yy];
 
             sample[0,0] = image.GetColor(Math.Max(x-1, 0), Math.Max(y-1,0));
             sample[1,0] = image.GetColor(x, Math.Max(y-1,0));
