@@ -608,11 +608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_CognitiveAPI\\src\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_CognitiveAPI\\src\\Library\\Library.csproj",
       "projectName": "CognitiveLibrary",
-      "projectPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_CognitiveAPI\\src\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_CognitiveAPI\\src\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_CognitiveAPI\\src\\Library\\obj\\",
+      "outputPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_CognitiveAPI\\src\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config"

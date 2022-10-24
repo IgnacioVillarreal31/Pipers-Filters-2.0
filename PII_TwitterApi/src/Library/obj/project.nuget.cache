@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ErGv+UlgWHJDJbrDW/p3F58wNsmOrOZ+ss/+7WVNokOljeO1UrZujiF4QyIPuejUycwkKgbUEWqH/NhdTqtQzA==",
+  "dgSpecHash": "4XlLJS996tKgX9/cFnTtt8aisfYaKinh3zSfgtiAxAKLBJgemwJ/f/+KkCIR5Tz7b6LY2E/XefmvV0+BKghQ2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_TwitterApi\\src\\Library\\Library.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_TwitterAPI\\src\\Library\\Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\nito.asyncex\\5.1.2\\nito.asyncex.5.1.2.nupkg.sha512",

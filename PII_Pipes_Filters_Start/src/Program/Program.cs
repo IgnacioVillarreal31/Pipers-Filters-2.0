@@ -11,23 +11,27 @@ namespace CompAndDel
         {
             PictureProvider provider = new PictureProvider();
             IPicture picture = provider.GetPicture(@"luke.jpg");
-            provider.SavePicture(picture, @"luke0.jpg");
-            
-            // Parte 1
-            IPipe pipeNull = new PipeNull();
-            IFilter filterNegative = new FilterNegative();
-            IPipe pipeSerial = new PipeSerial(filterNegative,pipeNull);
-            IFilter filterGreyscale = new FilterGreyscale();
-            IPipe pipeSerial2 = new PipeSerial(filterGreyscale,pipeSerial);
 
-            picture = pipeSerial.Send(picture);
-            provider.SavePicture(picture, @"luke1.jpg");
-            picture = pipeSerial2.Send(picture);
-            provider.SavePicture(picture, @"luke2.jpg");
-            
-            var twitter = new TwitterImage();
-            Console.WriteLine(twitter.PublishToTwitter("Nada que hacer", @"PathToImage.png"));
-            
+            IFilterConditional filtroCondicional = new FiltroCondicional (@"luke.jpg");
+            IPipe pipeNull = new PipeNull();
+
+            IFilter filtroTwitter = new FiltroTwitter ("Nada que hacer",@"luke1.jpg");
+            IPipe pipeSerial1 = new PipeSerial(filtroTwitter,pipeNull);
+
+            IFilter filtroGuardado3 = new FiltroGuardado (@"luke2.jpg");
+            IPipe pipeSerial5 = new PipeSerial(filtroGuardado3,pipeNull);
+            IFilter filtroNegativo = new FilterNegative ();
+            IPipe pipeSerial2 = new PipeSerial(filtroNegativo,pipeSerial5);
+
+            IPipe pipeCondicional = new PipeCondicional (filtroCondicional,pipeSerial1,pipeSerial2);
+
+            IFilter filtroGuardado2 = new FiltroGuardado (@"luke1.jpg");
+            IPipe pipeSerial3 = new PipeSerial(filtroGuardado2,pipeCondicional);
+
+            IFilter filterGreyscale = new FilterGreyscale();
+            IPipe pipeSerial4 = new PipeSerial(filterGreyscale,pipeSerial3);
+
+            pipeSerial4.Send(picture);
         }
     }
 }

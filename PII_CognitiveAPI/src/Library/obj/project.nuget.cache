@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1VWsRU/8DTOT0W/vNdSrn6kh3ilf2ktV8w8TTfdSXInK3ZddgB8jfPvATLbOq/+xbGFjp/rUDANGYoYjHWSmBw==",
+  "dgSpecHash": "cyWUa1djNz9X/F2Fa8D0IyJtx+Wu3LxrgtzXw0jzuXVgo3RJdEIMKtcW7kPAYQ18xUakb78heZ6KViYiGFOEKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_CognitiveAPI\\src\\Library\\Library.csproj",
+  "projectFilePath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_CognitiveAPI\\src\\Library\\Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignac\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
     "C:\\Users\\ignac\\.nuget\\packages\\nito.asyncex\\5.1.2\\nito.asyncex.5.1.2.nupkg.sha512",

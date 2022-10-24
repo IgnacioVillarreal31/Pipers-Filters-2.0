@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_TwitterApi\\src\\Library\\Library.csproj": {}
+    "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_TwitterAPI\\src\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_TwitterApi\\src\\Library\\Library.csproj": {
+    "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_TwitterAPI\\src\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_TwitterApi\\src\\Library\\Library.csproj",
+        "projectUniqueName": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_TwitterAPI\\src\\Library\\Library.csproj",
         "projectName": "TwitterApi",
-        "projectPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_TwitterApi\\src\\Library\\Library.csproj",
+        "projectPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_TwitterAPI\\src\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\ignac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Ejercicios C#\\RideShare2.0\\PII_TwitterApi\\src\\Library\\obj\\",
+        "outputPath": "C:\\Users\\ignac\\OneDrive\\Escritorio\\Pipers-Filters-2.0\\PII_TwitterAPI\\src\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ignac\\AppData\\Roaming\\NuGet\\NuGet.Config"
